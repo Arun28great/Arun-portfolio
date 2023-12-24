@@ -12,13 +12,13 @@ body{
     padding: 10px;
 }
 .banner{
-    background-image: url(/img/1.jpeg);
+    background-image: url(../1.jpeg);
     background-size: cover;
     padding: 200px 0px;
     color: aliceblue;
 }
 .ab{
-    background-image: url(/img/1.jpeg);
+    background-image: url(../1.jpeg);
     background-size: cover;
     padding: 200px 0px;
     color: aliceblue; 
@@ -27,13 +27,13 @@ body{
     width: 300px;
 }
 .cd{
-    background-image: url(/img/1.jpeg);
+    background-image: url(../1.jpeg);
     background-size: cover;
     padding: 200px 0px;
     color: aliceblue; 
 }
 .co{
-    background-image: url(/img/1.jpeg);
+    background-image: url(../1.jpeg);
     background-size: cover;
     padding: 200px 0px;
     color: aliceblue; 
