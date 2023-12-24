@@ -1,0 +1,61 @@
+#nav-bar{
+    background: transparent;
+     backdrop-filter: blur(10px);
+      
+}
+body{
+   font-family: Black Ops One;
+}
+#Skills{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.banner{
+    background-image: url(/img/1.jpeg);
+    background-size: cover;
+    padding: 200px 0px;
+    color: aliceblue;
+}
+.ab{
+    background-image: url(/img/1.jpeg);
+    background-size: cover;
+    padding: 200px 0px;
+    color: aliceblue; 
+}
+.se{
+    width: 300px;
+}
+.cd{
+    background-image: url(/img/1.jpeg);
+    background-size: cover;
+    padding: 200px 0px;
+    color: aliceblue; 
+}
+.co{
+    background-image: url(/img/1.jpeg);
+    background-size: cover;
+    padding: 200px 0px;
+    color: aliceblue; 
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    padding: 10px 10px;
+    border: none;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
