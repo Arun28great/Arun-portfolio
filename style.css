@@ -65,7 +65,11 @@ h1{
     height: 100px;
     
 }
-.fa{
+#fs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
     font-size: 50px;
 
 }
