@@ -6,6 +6,11 @@
 body{
    font-family: Black Ops One;
 }
+#fx{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
 #Skills{
     display: flex;
     justify-content: center;
