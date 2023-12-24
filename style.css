@@ -52,6 +52,7 @@ h1{
 .social-icons {
     margin-top: 10px;
     justify-content: center;
+    align-items: center;
   
 
 }
@@ -59,9 +60,11 @@ h1{
 
 #fs{
     display: flex;
+    flex-wrap: wrap;
      padding: 20px;
     font-size: 50px;
     justify-content: center;
+    align-items: center;
 
 }
 
