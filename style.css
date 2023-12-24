@@ -56,4 +56,12 @@ h1{
     justify-content: center;
 }
 
+.ic{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    
+}
+
 
