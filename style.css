@@ -59,11 +59,9 @@ h1{
 
 #fs{
     display: flex;
-    align-items: center;
     justify-content: center;
      padding: 20px;
     font-size: 50px;
-    align-self: center;
 
 }
 
